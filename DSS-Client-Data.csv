@@ -1,0 +1,375 @@
+Company name,Business Fields,Founded date,Size,Address,Quant,City,Job Field,Job Position,Experienced,Salary
+MOMO,Fintech/ Financial Service,2007,200 - 500,Hochiminh,10,Hochiminh,Computer Science & IT,Data Analyst Intern,No,4500000
+MOMO,Fintech/ Financial Service,2007,200 - 500,Hochiminh,10,Hochiminh,Product,Research Analyst Intern,No,4500000
+TELIO,E-commerce,2018,<200,Hanoi,1,Hanoi,Product,Product Intern,No,6000000
+TELIO,E-commerce,2018,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,8000000
+TELIO,E-commerce,2018,<200,Hanoi,3,Hanoi,Business Management,Data Analyst Intern,No,3000000
+TELIO,E-commerce,2018,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,6000000
+TELIO,E-commerce,2018,<200,Hanoi,2,Hanoi,Human Resources,Human Resources Intern,No,6000000
+TELIO,E-commerce,2018,<200,Hanoi,1,Hochiminh,Other,Purchasing Intern,Yes,5000000
+TELIO,E-commerce,2018,<200,Hanoi,20,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,8000000
+BASE,E-commerce,2016,200 - 500,Hanoi,1,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+BASE,E-commerce,2016,200 - 500,Hanoi,1,Hochiminh,Business Management,Sales Intern,No,4500000
+BASE,E-commerce,2016,200 - 500,Hanoi,100,Hochiminh,Business Management,Business Consultant,Yes,5000000
+APPOTA,Technology,2011,200 - 500,Hanoi,5,Hanoi,Marketing,Content Marketing Intern,Yes,4500000
+APPOTA,Technology,2011,200 - 500,Hanoi,2,Hanoi,Marketing,Content Marketing Intern,Yes,4500000
+APPOTA,Technology,2011,200 - 500,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,4500000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Finance & Accounting,Finance & Accounting Intern,No,4600000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Human Resources,Human Resources Intern,Yes,4600000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Marketing,Marketing Intern,No,4600000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Computer Science & IT,Software Engineer Intern,Yes,4600000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Business Management,Sales Intern,No,4500000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Human Resources,Corporate Development and M&A Intern,No,4600000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Operation,Operation Intern,Yes,4600000
+HOMEBASE,Proptech/ Real Estate,2019,<200,Hochiminh,1,Remote,Business Management,Sales Intern,Yes,4600000
+ON POINT,E-commerce,2016,<200,Hochiminh,100,Hochiminh,Business Management,Management Trainee,No,4500000
+ON POINT,E-commerce,2016,<200,Hochiminh,1,Hochiminh,Business Management,Business Analyst Intern,Yes,3420000
+COOLMATE,E-commerce,2019,<200,Hanoi,1,Hochiminh,Marketing,Marketing Intern,No,3000000
+COOLMATE,E-commerce,2019,<200,Hanoi,1,Hochiminh,Operation,Customer Service Intern,No,3000000
+COOLMATE,E-commerce,2018,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,4000000
+EVEREST EDUCATION,EdTech,2011,1000 - 3000,Hochiminh,1,Hochiminh,Product,Product Management,No,4500000
+VIETCETERA,Multi-Media,2016,<200,Hochiminh,1,Hochiminh,Multi- Media,International Editorial Intern,Yes,4000000
+VIETCETERA,Multi-Media,2016,<200,Hochiminh,1,Hochiminh,Multi- Media,Event Intern,Yes,2000000
+VN PAY (VNLIFE),Fintech/ Financial Service,2007,200 - 500,Hanoi,2,Hanoi,Human Resources,Human Resources Intern,Yes,4500000
+SAPO (VNLIFE),E-commerce,2008,500 - 1000,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,4500000
+FINHAY,Fintech/ Financial Service,2017,<200,Hanoi,2,Hanoi,Product,UX/UI Design Intern,Yes,4500000
+ELSA,EdTech,2015,200 - 500,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,4500000
+ELSA,EdTech,2015,<200,Hochiminh,1,Hochiminh,Business Management,Customer Service Intern,Yes,4500000
+ELSA,EdTech,2015,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,4500000
+ELSA,EdTech,2015,<200,Hochiminh,1,Hochiminh,Marketing,Content Marketing Intern,Yes,4500000
+JOBHOPIN,Technology,2017,<200,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+JOBHOPIN,Technology,2017,<200,Hochiminh,1,Hochiminh,Marketing,Marketing Intern,Yes,4500000
+TOPICA EDTECH GROUP,EdTech,2008,1000 - 3000,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,Yes,2000000
+TOPICA EDTECH GROUP,EdTech,2008,1000 - 3000,Hanoi,2,Hanoi,Human Resources,Human Resources Intern,No,2000000
+KIOVIET (CITIGO),Technology,2014,1000 - 3000,Hanoi,1,Hanoi,Business Management,Business Intern,No,2000000
+KIOVIET (CITIGO),Technology,2014,1000 - 3000,Hanoi,2,Hochiminh,Marketing,Internal Communication Intern,No,4500000
+KIOVIET (CITIGO),Technology,2014,1000 - 3000,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,No,4000000
+KIOVIET (CITIGO),Technology,2014,1000 - 3000,Hanoi,1,Hanoi,Multi- Media,Graphic Design Intern,No,4000000
+KIOVIET (CITIGO),Technology,2014,1000 - 3000,Hanoi,1,Hanoi,Finance & Accounting,Finance & Accounting Intern,No,4000000
+Got IT,Technology,2012,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+Got IT,Technology,2012,<200,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,Yes,2500000
+SENDO,E-commerce,2012,200 - 500,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,1,Hochiminh,Marketing,Marketing Intern,Yes,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,2,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,2,Hochiminh,Human Resources,Human Resources Intern,Yes,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,1,Hochiminh,Computer Science & IT,Growth Analysis Intern,Yes,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,1,Hochiminh,Product,Product Management,Yes,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,1,Hochiminh,Other,Engagement & Admin Intern,No,4500000
+TIKI,E-commerce,2010,500 - 1000,Hochiminh,1,Hochiminh,Business Management,Sales Intern,No,4500000
+KATALON,Technology,2008,500 - 1000,Hochiminh,1,Hochiminh,Computer Science & IT,Security Engineer Intern,Yes,4500000
+KATALON,Technology,2008,500 - 1000,Hochiminh,1,Hochiminh,Operation,Operation Intern,No,4500000
+KATALON,Technology,2008,500 - 1000,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+CỐC CỐC,Others,2010,200 - 500,Hanoi,1,Hochiminh,Finance & Accounting,Account Intern,Yes,4000000
+CỐC CỐC,Others,2010,200 - 500,Hanoi,1,Hanoi,Multi- Media,Multimedia Intern,Yes,5000000
+LOGIVAN,Others,2017,200 - 500,Hanoi,1,Hanoi,Business Management,Customer Service Intern,Yes,4500000
+LOGIVAN,Others,2017,200 - 500,Hanoi,1,Hanoi,Logistic,Logistics Purchasing,Yes,4500000
+LOGIVAN,Others,2017,200 - 500,Hanoi,1,Hanoi,Operation,Operation Intern,Yes,4500000
+TEKO (VNLIFE),Technology,2017,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,6000000
+TEKO (VNLIFE),Technology,2017,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Quality Control,Yes,6000000
+AGILETECH,Technology,2015,<200,Hanoi,1,Hanoi,Product,UX/UI Design Intern,Yes,4500000
+AGILETECH,Technology,2015,<200,Hanoi,1,Hanoi,Computer Science & IT,Tester Intern,No,4500000
+AGILETECH,Technology,2015,<200,Hanoi,100,Hanoi,Business Management,Business Analyst Intern,No,4000000
+AGILETECH,Technology,2015,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+AGILETECH,Technology,2015,<200,Hanoi,3,Hanoi,Computer Science & IT,Blockchain Intern,No,4500000
+AGILETECH,Technology,2015,<200,Hanoi,1,Hanoi,Marketing,Marketing Intern,No,5000000
+AGILETECH,Technology,2015,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,4000000
+ONE MOUNT,Technology,2019,3000 - 5000,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+ONE MOUNT,Technology,2019,3000 - 5000,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Data Analyst Intern,No,4500000
+ONE MOUNT,Technology,2019,3000 - 5000,Hanoi/ Hochiminh,100,Hanoi,Marketing,Marketing Intern,No,4500000
+TDT ASIA,Fintech/ Financial Service,2017,<200,Hanoi,100,Hanoi,Business Management,Business Analyst Intern,No,4500000
+TDT ASIA,Fintech/ Financial Service,2017,<200,Hanoi,100,Hanoi,Human Resources,Human Resources Intern,No,2000000
+TDT ASIA,Fintech/ Financial Service,2017,<200,Hanoi,10,Hanoi,Human Resources,Human Resources Intern,No,2000000
+TDT ASIA,Fintech/ Financial Service,2017,<200,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,2000000
+TDT ASIA,Fintech/ Financial Service,2017,<200,Hanoi,2,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,6000000
+TDT ASIA,Fintech/ Financial Service,2017,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+BSS GROUP,E-commerce,2012,<200,Hanoi,10,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,3000000
+"OPEN COMMERCE GROUP
+(Shopbase, Printbase)",E-commerce,2014,200 - 500,Hanoi/ Hochiminh,10,Hanoi,Product,Product Management,No,4500000
+"OPEN COMMERCE GROUP
+(Shopbase, Printbase)",E-commerce,2014,200 - 500,Hanoi/ Hochiminh,10,Hanoi,Human Resources,Human Resources Intern,No,3000000
+POSITIVE THINKING COMPANY,Technology,2014,1000 - 3000,Hochiminh,2,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,6000000
+POSITIVE THINKING COMPANY,Technology,2014,1000 - 3000,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+KYANON DIGITAL,Technology,2012,200 - 500,Hochiminh,15,Hochiminh,Marketing,Marketing Intern,No,2000000
+KYANON DIGITAL,Technology,2012,200 - 500,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,2000000
+VNG CORPORATION,Technology,2012,1000 - 3000,Hochiminh,1,Hochiminh,Marketing,Marketing Intern,No,4500000
+VNG CORPORATION,Technology,2012,1000 - 3000,Hochiminh,1,Hochiminh,Product,Product Operations,No,4500000
+VNG CORPORATION,Technology,2012,1000 - 3000,Hochiminh,100,Hochiminh,Product,Product Management,No,4500000
+BAEMIN VIETNAM,Technology,2019,200 - 500,Hochiminh,15,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+BAEMIN VIETNAM,Technology,2019,200 - 500,Hochiminh,1,Hochiminh,Computer Science & IT,Data Analyst Intern,No,5000000
+BAEMIN VIETNAM,Technology,2019,200 - 500,Hochiminh,1,Hochiminh,Other,Inbound Acquisition,Yes,5000000
+POINT AVENUE,EdTech,2018,<200,Hanoi,1,Hanoi,Other,Test Prep Intern,Yes,4000000
+POINT AVENUE,EdTech,2018,<200,Hanoi,1,Hanoi,Other,Winter Camp Intern,Yes,4000000
+ADAMO.DIGITAL,Technology,2016,<200,Hanoi,4,Hanoi,Marketing,Marketing Intern,No,5000000
+ADAMO.DIGITAL,Technology,2016,<200,Hanoi,7,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,5000000
+ADAMO.DIGITAL,Technology,2016,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+SECOMUS,Technology,2014,<200,Hanoi,2,Hanoi,Marketing,Marketing Intern,No,1500000
+SECOMUS,Technology,2014,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,6000000
+FIIN GROUP,Fintech/ Financial Service,2008,200 - 500,Hanoi,3,Hanoi,Business Management,Business Analyst Intern,Yes,4500000
+SMART OSC,E-commerce,2006,500 - 1000,Hanoi,1,Hanoi,Business Management,Business Analyst Intern,No,6000000
+SMART OSC,E-commerce,2006,500 - 1000,Hanoi,6,Hanoi,Marketing,Content Marketing Intern,No,4500000
+SMART OSC,E-commerce,2006,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+SMART OSC,E-commerce,2006,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Tester Intern,No,6000000
+SOTATEK JSC,Technology,2015,200 - 500,Hanoi,100,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+TECHVIFY,Technology,2018,200 - 500,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,11000000
+TRUE MONEY,Fintech/ Financial Service,2016,<200,Hanoi,1,Hanoi,Business Management,Business Analyst Intern,Yes,4500000
+CHỢ TỐT,Technology,2013,200 - 500,Hochiminh,1,Hochiminh,Business Management,Business Analyst Intern,Yes,5000000
+CHỢ TỐT,Technology,2013,200 - 500,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,Yes,5000000
+CHỢ TỐT,Technology,2013,200 - 500,Hochiminh,1,Hochiminh,Marketing,SEO Intern,No,5000000
+MISA,Others,1994,500 - 1000,Hanoi,100,Hanoi,Computer Science & IT,Software Engineer Intern,No,3000000
+MISA,Others,1994,500 - 1000,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,5000000
+CMC GLOBAL,Technology,1993,3000 - 5000,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,Yes,4500000
+CMC GLOBAL,Technology,1993,3000 - 5000,Hanoi,1,Hanoi,Business Management,Business Intern,No,4500000
+VNP GROUP,E-commerce,2006,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Data Analyst Intern,No,5500000
+VNP GROUP,E-commerce,2006,500 - 1000,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,No,4000000
+VNP GROUP,E-commerce,2006,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,4000000
+VNP GROUP,E-commerce,2006,500 - 1000,Hanoi,5,Hanoi,Marketing,Content Marketing Intern,No,4000000
+CON CƯNG,E-commerce,2012,3000 - 5000,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,5000000
+CON CƯNG,E-commerce,2012,3000 - 5000,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,5000000
+CON CƯNG,E-commerce,2012,3000 - 5000,Hochiminh,1,Hochiminh,Other,Purchasing Intern,No,4000000
+VNG CORPORATION,Technology,2004,>5000,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,QC Intern,Yes,4500000
+VNG CORPORATION,Technology,2004,>5000,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,4500000
+VNG CORPORATION,Technology,2004,>5000,Hanoi/ Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,4500000
+VNG CORPORATION,Technology,2004,>5000,Hanoi/ Hochiminh,100,Hochiminh,Computer Science & IT,Software Engineer Intern,No,9000000
+VNG CORPORATION,Technology,2004,>5000,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,System Intern,No,4500000
+VNG CORPORATION,Technology,2004,>5000,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,Network Intern,No,4500000
+CỐC CỐC,Technology,2010,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Marketing,Marketing Intern,Yes,9000000
+CỐC CỐC,Technology,2010,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Multi- Media,Multimedia Intern,Yes,5000000
+CỐC CỐC,Technology,2010,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,11000000
+CỐC CỐC,Technology,2010,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Account Intern,Yes,4000000
+CỐC CỐC,Technology,2010,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Human Resources,Human Resources Intern,Yes,4000000
+PROPZY,Proptech/ Real Estate,2014,500 - 1000,Hochiminh,1,Hochiminh,Marketing,Marketing Intern,No,5000000
+PROPZY,Proptech/ Real Estate,2014,500 - 1000,Hochiminh,1,Hochiminh,Operation,Operation Intern,No,4500000
+DIGIWORLD,Technology,1997,200 - 500,Hanoi/ Hochiminh,100,Hochiminh,Business Management,Management Trainee,Yes,4500000
+ITS GLOBAL,Technology,2020,200 - 500,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,4000000
+ITS GLOBAL,Technology,2020,200 - 500,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,No,4000000
+ITS GLOBAL,Technology,2020,200 - 500,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,No,4000000
+ITS GLOBAL,Technology,2020,200 - 500,Hanoi,3,Hanoi,Business Management,Comtor Intern,Yes,4000000
+ITS GLOBAL,Technology,2020,200 - 500,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,4000000
+NCC VIETNAM,Technology,2014,<200,Hanoi,6,Hanoi,Computer Science & IT,Software Engineer Intern,No,4600000
+NCC VIETNAM,Technology,2014,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,4600000
+NCC VIETNAM,Technology,2014,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,4600000
+NCC VIETNAM,Technology,2014,<200,Hanoi,6,Hanoi,Computer Science & IT,Software Engineer Intern,No,4600000
+NCC VIETNAM,Technology,2014,<200,Hanoi,7,Hanoi,Computer Science & IT,Tester Intern,No,7000000
+VIETELITE EDUCATION,Others,2018,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,5000000
+VIETELITE EDUCATION,Others,2018,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+SELEX MOTOR,Others,2018,<200,Hanoi,2,Hanoi,Human Resources,Human Resources Intern,No,4000000
+SELEX MOTOR,Others,2018,<200,Hanoi,2,Hanoi,Product,Purchasing Intern,No,4000000
+SELEX MOTOR,Others,2018,<200,Hanoi,2,Hanoi,Finance & Accounting,Account Intern,No,4000000
+MUNKAS AGENCY,Others,2016,<200,Hochiminh,1,Hochiminh,Marketing,Content Marketing Intern,Yes,5000000
+MUNKAS AGENCY,Others,2016,<200,Hochiminh,2,Hochiminh,Marketing,Account Intern,No,5000000
+MUNKAS AGENCY,Others,2016,<200,Hochiminh,1,Hochiminh,Marketing,Marketing Intern,No,4000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,10000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,5000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Tester Intern,Yes,5000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,10000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,5,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,8000000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,5,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,8000000
+HAPODIGITAL,Others,2019,<200,Hanoi,20,Hanoi,Marketing,Marketing Intern,No,4500000
+EWAY,Technology,2009,200 - 500,Hanoi/ Hochiminh,5,Hanoi,Product,Project Intern,No,7000000
+EWAY,Technology,2009,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+EWAY,Technology,2009,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,7000000
+AHIHO,Technology,2016,<200,Hanoi/ Hochiminh,10,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+TRIPATH VIET NAM,Technology,2011,<200,Hanoi,1,Hanoi,Computer Science & IT,Business Analyst Intern,No,10000000
+TRIPATH VIET NAM,Technology,2011,<200,Hanoi,1,Hanoi,Multi- Media,UX/UI Design Intern,No,10000000
+FADO,E-commerce,2012,200 - 500,Hanoi/ Hochiminh,3,Hochiminh,Computer Science & IT,Software Engineer Intern,No,7000000
+FADO,E-commerce,2012,200 - 500,Hanoi/ Hochiminh,4,Hochiminh,Marketing,Marketing Intern,No,4500000
+FADO,E-commerce,2012,200 - 500,Hanoi/ Hochiminh,3,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,7000000
+FADO,E-commerce,2012,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,Content Marketing Intern,Yes,4500000
+FADO,E-commerce,2012,200 - 500,Hanoi/ Hochiminh,4,Hochiminh,Product,R&D Intern,No,4500000
+FADO,E-commerce,2012,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,7000000
+MANABIE,EdTech,2019,<200,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,6000000
+MANABIE,EdTech,2019,<200,Hochiminh,1,Hochiminh,Marketing,Marketing Intern,No,4000000
+MANABIE,EdTech,2019,<200,Hochiminh,1,Hochiminh,Operation,Customer Service Intern,Yes,7000000
+BGROUP AGENCY,Others,2015,<200,Hochiminh,1,Hochiminh,Multi- Media,Graphic Design Intern,No,4400000
+BGROUP AGENCY,Others,2015,<200,Hochiminh,1,Hochiminh,Marketing,Content Marketing Intern,No,4500000
+BGROUP AGENCY,Others,2015,<200,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,4500000
+POSAPP,Technology,2014,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,8000000
+POSAPP,Technology,2014,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,6000000
+POSAPP,Technology,2014,<200,Hochiminh,1,Hochiminh,Operation,Content Marketing Intern,No,4500000
+MAKE FAMOUS APP,Technology,2021,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,10000000
+MAKE FAMOUS APP,Technology,2021,<200,Hochiminh,5,Hochiminh,Computer Science & IT,Software Engineer Intern,No,8000000
+ZINZA TECHNOLOGY,Technology,2016,<200,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,5000000
+ZINZA TECHNOLOGY,Technology,2016,<200,Hanoi,1,Hanoi,Computer Science & IT,Comtor Intern,No,5000000
+ZINZA TECHNOLOGY,Technology,2016,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+ZINZA TECHNOLOGY,Technology,2016,<200,Hanoi,10,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+ZINZA TECHNOLOGY,Technology,2016,<200,Hanoi,2,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+HG MEDIA,Others,2018,<200,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,Yes,8000000
+HG MEDIA,Others,2018,<200,Hanoi,1,Hanoi,Marketing,Marketing Intern,No,7000000
+CONTEMI VIETNAM,Technology,2012,1000 - 3000,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,4500000
+CONTEMI VIETNAM,Technology,2012,1000 - 3000,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,4500000
+CONTEMI VIETNAM,Technology,2012,1000 - 3000,Hochiminh,4,Hochiminh,Computer Science & IT,Tester Intern,Yes,4500000
+OFFICIENCE,Technology,2006,200 - 500,Hochiminh,1,Hochiminh,Computer Science & IT,Tester Intern,No,3000000
+OFFICIENCE,Technology,2006,200 - 500,Hochiminh,1,Hochiminh,Marketing,Content Marketing Intern,No,3000000
+OFFICIENCE,Technology,2006,200 - 500,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,3000000
+OFFICIENCE,Technology,2006,200 - 500,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,3000000
+NATIONAL FORTUNE,Others,2013,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,4000000
+NATIONAL FORTUNE,Others,2013,<200,Hanoi,1,Hanoi,Finance & Accounting,Finance & Accounting Intern,No,4000000
+NATIONAL FORTUNE,Others,2013,<200,Hanoi,5,Hanoi,Product,Purchasing Intern,No,5000000
+FARADAY,Technology,2019,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,12000000
+AREVO,Technology,2020,200 - 500,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,No,4000000
+AREVO,Technology,2020,200 - 500,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,4000000
+AREVO,Technology,2020,200 - 500,Hochiminh,1,Hochiminh,Product,Purchasing Intern,No,4000000
+AREVO,Technology,2020,200 - 500,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,Yes,4000000
+REAL UP,Others,2019,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,3500000
+REAL UP,Others,2019,<200,Hanoi,1,Hanoi,Marketing,Account Intern,No,4500000
+REAL UP,Others,2019,<200,Hanoi,1,Hanoi,Multi- Media,Graphic Design Intern,Yes,5000000
+UNISTARS AUDITING,Fintech/ Financial Service,2007,<200,Hanoi,1,Hanoi,Finance & Accounting,Auditing Intern,No,12000000
+MONKEY VIETNAM,EdTech,2014,<200,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,No,4000000
+MONKEY VIETNAM,EdTech,2014,<200,Hanoi,1,Hanoi,Marketing,Marketing Intern,No,4000000
+MONKEY VIETNAM,EdTech,2014,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,Yes,4000000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,10,Hochiminh,Multi- Media,Animation Intern,No,4500000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,10,Hochiminh,Multi- Media,VFX Intern,No,4500000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,10,Hochiminh,Computer Science & IT,Software Engineer Intern,No,4500000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,10,Hochiminh,Computer Science & IT,Software Engineer Intern,No,4500000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,10,Hochiminh,Computer Science & IT,Software Engineer Intern,No,4500000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,10,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,4500000
+ALTA MEDIA,Multi-Media,2008,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Business Analyst Intern,No,4500000
+ALPACA,Technology,2020,<200,Hanoi/ Hochiminh,3,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+ALPACA,Technology,2020,<200,Hanoi/ Hochiminh,3,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+ALPACA,Technology,2020,<200,Hanoi/ Hochiminh,2,Hochiminh,Computer Science & IT,Tester Intern,No,5000000
+SYNAPSE DESIGN,Technology,2016,<200,Hochiminh,20,Hochiminh,Other,Physical Design,No,10000000
+KIAISOFT,Technology,2016,<200,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,No,5000000
+KIAISOFT,Technology,2016,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+HBS VIETNAM,Others,2016,<200,Hanoi/ Hochiminh,10,Hanoi,Logistic,Sales Intern,No,5000000
+SOFT ONE,Technology,2016,<200,Hochiminh,10,Hochiminh,Multi- Media,Graphic Design Intern,No,4500000
+SOFT ONE,Technology,2016,<200,Hochiminh,5,Hochiminh,Computer Science & IT,Software Engineer Intern,No,6000000
+GAMELOFT VIETNAM,Others,2008,500 - 1000,Hanoi/ Hochiminh,2,Hochiminh,Computer Science & IT,Software Engineer Intern,No,6000000
+GAMELOFT VIETNAM,Others,2008,500 - 1000,Hanoi/ Hochiminh,2,Hochiminh,Computer Science & IT,Software Engineer Intern,No,6000000
+GAMELOFT VIETNAM,Others,2008,500 - 1000,Hanoi/ Hochiminh,2,Hanoi,Computer Science & IT,Software Engineer Intern,No,7000000
+VCS VIETNAM,Technology,2012,<200,Hanoi,3,Hanoi,Finance & Accounting,Finance & Accounting Intern,No,7000000
+VCS VIETNAM,Technology,2012,<200,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,6000000
+PHÁT KIẾN GIA,Others,2008,<200,Hochiminh,2,Hochiminh,Marketing,Marketing Intern,No,5000000
+PHÁT KIẾN GIA,Others,2008,<200,Hochiminh,2,Hochiminh,Business Management,Business Intern,No,5000000
+PHÁT KIẾN GIA,Others,2008,<200,Hochiminh,2,Hochiminh,Finance & Accounting,Finance & Accounting Intern,No,5000000
+PHÁT KIẾN GIA,Others,2008,<200,Hochiminh,1,Hochiminh,Multi- Media,Graphic Design Intern,No,5000000
+SMILE CARE,Others,2010,<200,Hanoi,5,Hanoi,Marketing,Marketing Intern,No,6000000
+SMILE CARE,Others,2010,<200,Hanoi,3,Hanoi,Human Resources,Human Resources Intern,No,4000000
+SMILE CARE,Others,2010,<200,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,No,5000000
+SMILE CARE,Others,2010,<200,Hanoi,1,Hanoi,Finance & Accounting,Finance & Accounting Intern,No,4000000
+IIT,Technology,2014,<200,Hanoi/ Hochiminh,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,8000000
+IIT,Technology,2014,<200,Hanoi/ Hochiminh,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,8000000
+HIVETECH,Technology,2019,<200,Hanoi,3,Hanoi,Computer Science & IT,Tester Intern,No,12000000
+HIVETECH,Technology,2019,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,4500000
+ADAMO SOFTWARE,Technology,2016,<200,Hanoi,1,Hanoi,Marketing,Marketing Intern,No,4500000
+ADAMO SOFTWARE,Technology,2016,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+ADAMO SOFTWARE,Technology,2016,<200,Hanoi,2,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+CHIN MEDIA,Technology,2015,<200,Hanoi/ Hochiminh,2,Hanoi,Marketing,Marketing Intern,No,5000000
+CHIN MEDIA,Technology,2015,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Account Intern,No,4000000
+GIAO HÀNG NHANH,Others,2012,>5000,Hanoi/ Hochiminh,1,Hanoi,Human Resources,Human Resources Intern,Yes,4000000
+GIAO HÀNG NHANH,Others,2012,>5000,Hanoi/ Hochiminh,1,Hanoi,Multi- Media,Graphic Design Intern,Yes,4500000
+GIAO HÀNG NHANH,Others,2012,>5000,Hanoi/ Hochiminh,1,Hanoi,Marketing,Content Marketing Intern,No,4500000
+ESOFT,Proptech/ Real Estate,2007,200 - 500,Hanoi,1,Hanoi,Finance & Accounting,Finance & Accounting Intern,No,4000000
+ESOFT,Proptech/ Real Estate,2007,200 - 500,Hanoi,1,Hanoi,Marketing,Marketing Intern,No,4000000
+ESOFT,Proptech/ Real Estate,2007,200 - 500,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,No,4000000
+TIGREN SOLUTIONS,Technology,2012,<200,Hanoi,10,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+PHARMACITY,E-commerce,2011,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Content Marketing Intern,No,2000000
+PHARMACITY,E-commerce,2011,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Business Management,Business Analyst Intern,No,2000000
+PHARMACITY,E-commerce,2011,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,No,2000000
+HỌC MÃI,EdTech,2016,500 - 1000,Hanoi/ Hochiminh,2,Hanoi,Human Resources,Human Resources Intern,No,3500000
+HỌC MÃI,EdTech,2016,500 - 1000,Hanoi/ Hochiminh,10,Hanoi,Marketing,Marketing Intern,No,4500000
+SYMPER VIETNAM,Technology,2018,<200,Hanoi,2,Hanoi,Computer Science & IT,Tester Intern,Yes,6000000
+SYMPER VIETNAM,Technology,2018,<200,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,6000000
+NGS IT,Technology,2018,200 - 500,Hanoi,6,Hanoi,Computer Science & IT,Business Analyst Intern,No,5000000
+SUN ASTERISK,Others,2012,200 - 500,Hanoi/ Hochiminh,10,Hanoi,Computer Science & IT,Software Engineer Intern,No,4200000
+SUN ASTERISK,Others,2012,200 - 500,Hanoi/ Hochiminh,4,Hanoi,Human Resources,Human Resources Intern,No,4200000
+ACAZIA,Technology,2015,<200,Hanoi,2,Hanoi,Computer Science & IT,Tester Intern,No,6000000
+ACAZIA,Technology,2015,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+ACAZIA,Technology,2015,<200,Hanoi,2,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+ACAZIA,Technology,2015,<200,Hanoi,2,Hanoi,Multi- Media,Graphic Design Intern,No,4500000
+ACAZIA,Technology,2015,<200,Hanoi,2,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+ACAZIA,Technology,2015,<200,Hanoi,2,Hanoi,Human Resources,Human Resources Intern,No,4500000
+ACAZIA,Technology,2015,<200,Hanoi,2,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+ACAZIA,Technology,2015,<200,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,4500000
+MAGENEST,Technology,2014,200 - 500,Hanoi/ Hochiminh,3,Hanoi,Marketing,Marketing Intern,No,5000000
+MAGEPLAZA,Technology,2014,200 - 500,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+MAGEPLAZA,Technology,2014,200 - 500,Hanoi,1,Hanoi,Marketing,Marketing Intern,No,5000000
+MAGEPLAZA,Technology,2014,200 - 500,Hanoi,1,Hanoi,Multi- Media,Video Editor Intern,No,7000000
+MEDLINK,E-commerce,2019,<200,Hanoi,4,Hanoi,Computer Science & IT,Software Engineer Intern,No,6000000
+ZEE,Multi-Media,2016,<200,Hanoi/ Hochiminh,3,Hochiminh,Business Management,Account Intern,No,5000000
+EKOIOS TECHNOLOGY,Technology,2015,<200,Hanoi,1,Hanoi,Marketing,Marketing Intern,Yes,5000000
+EKOIOS TECHNOLOGY,Technology,2015,<200,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,Yes,5000000
+EKOIOS TECHNOLOGY,Technology,2015,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,5000000
+EKOIOS TECHNOLOGY,Technology,2015,<200,Hanoi,1,Hanoi,Business Management,Business Analyst Intern,Yes,5000000
+PMAX,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Marketing Intern,Yes,5750000
+PMAX,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Account Intern,Yes,5750000
+CYBER EYE TECHNOLOGY,Technology,2016,200 - 500,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+CYBER EYE TECHNOLOGY,Technology,2016,200 - 500,Hanoi,10,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,5000000
+CYBER EYE TECHNOLOGY,Technology,2016,200 - 500,Hanoi,5,Hanoi,Computer Science & IT,Software Engineer Intern,No,5000000
+GUDJOB,Multi-Media,2017,<200,Hochiminh,1,Hochiminh,Multi- Media,Graphic Design Intern,Yes,4500000
+TIMO,Fintech/ Financial Service,2015,<200,Hochiminh,1,Hanoi,Marketing,Customer Services Intern,Yes,12000000
+DENTSU REDDER,Multi-Media,2012,200 - 500,Hochiminh,1,Hochiminh,Marketing,Content Intern,Yes,2000000
+BETA GROUP,Multi-Media,2014,200 - 500,Hanoi,1,Remote,Marketing,Content Marketing Intern,Yes,4500000
+"MEDIA VENTURE VIETNAM (Top Class, Everlearn...)",Multi-Media,2013,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Marketing Intern,Yes,4500000
+"MEDIA VENTURE VIETNAM (Top Class, Everlearn...)",Multi-Media,2013,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Account Intern,Yes,4500000
+GAPO,Technology,2019,200 - 500,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,Yes,4500000
+AMANOTES,Others,2014,<200,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,Yes,4500000
+METUB NETWORK,Multi-Media,2014,200 - 500,Hochiminh,1,Hochiminh,Other,Partner Success Intern,Yes,4500000
+METUB NETWORK,Multi-Media,2014,200 - 500,Hochiminh,1,Hochiminh,Other,Sales Intern,Yes,4500000
+SAVVYCOM,Technology,2009,200 - 500,Hanoi,1,Hanoi,Marketing,Sales Intern,Yes,4500000
+SAVVYCOM,Technology,2009,200 - 500,Hanoi,1,Hanoi,Marketing,Marketing Intern,Yes,4500000
+SAVVYCOM,Technology,2009,200 - 500,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,Yes,4500000
+GEEK UP,Technology,2014,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern (Backend & Frontend),Yes,4500000
+HOOZING,Proptech/ Real Estate,2015,200 - 500,Hochiminh,1,Hochiminh,Marketing,Sales,Yes,4500000
+REVU,Multi-Media,2018,<200,Hochiminh,1,Hanoi,Business Management,Consultant Intern,Yes,1500000
+LALAMOVE VIETNAM,Others,2017,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Business Management,Business Development Intern,Yes,4500000
+LALAMOVE VIETNAM,Others,2017,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Marketing,Account Management Intern,Yes,4500000
+FADO VIETNAM,E-commerce,2020,200 - 500,Hochiminh,1,Hochiminh,Logistic,Logistics,Yes,4500000
+ILA,EdTech,2000,1000 - 3000,Hochiminh,1,Hochiminh,Other,Teaching Assistant,Yes,4000000
+SEONGON,Multi-Media,2012,<200,Hanoi,1,Hanoi,Marketing,Content Intern,Yes,4000000
+SEONGON,Multi-Media,2013,<200,Hanoi,1,Hanoi,Multi- Media,Graphic Design,Yes,1000000
+ECOMOBI VIETNAM,Multi-Media,2016,<200,Hanoi,1,Hanoi,Human Resources,Human Resources,Yes,5000000
+RETI,Proptech/ Real Estate,2020,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer,Yes,3000000
+EDMICRO,EdTech,2018,<200,Hanoi,1,Hanoi,Marketing,Content Intern,Yes,1000000
+EDMICRO,EdTech,2018,<200,Hanoi,1,Hanoi,Marketing,Intern,Yes,2000000
+SYNOVA GROUP,Technology,2011,<200,Hochiminh,1,Hochiminh,Human Resources,Talent Acquisition,Yes,4500000
+SYNOVA GROUP,Technology,2011,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Quality Control Intern,Yes,3000000
+BIZZI,Fintech/ Financial Service,2019,<200,Hochiminh,1,Hochiminh,Business Management,Sales Intern,No,3500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hanoi,Human Resources,Human Resources Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Partnership Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Business Development Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Operation,Event Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Trade Marketing Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Copywriter Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Content Marketing,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Marketing,SEO Intern,Yes,4500000
+BTASKEE,Others,2016,<200,Hanoi/ Hochiminh,1,Hochiminh,Computer Science & IT,Back-end Developer,Yes,4500000
+MOBILE WORLD GROUP,E-commerce,2004,>5000,Hochiminh,4,Hochiminh,Marketing,Content Writer,Yes,4000000
+SAPO,E-commerce,2008,500 - 1000,Hanoi,1,Hanoi,Marketing,Marketing,Yes,2000000
+SAPO,E-commerce,2008,500 - 1000,Hanoi,1,Hochiminh,Marketing,Sales Intern,Yes,1500000
+SAPO,E-commerce,2008,500 - 1000,Hanoi,1,Hanoi,Marketing,Sales Intern,Yes,1500000
+SAPO,E-commerce,2008,500 - 1000,Hanoi,1,Hanoi,Computer Science & IT,Business Analyst Intern,Yes,2000000
+CITICS,Proptech/ Real Estate,2018,200 - 500,Hochiminh,3,Hochiminh,Other,Appraiser ,Yes,4500000
+NEXTTECH GROUP,Technology,2001,1000 - 3000,Hanoi/ Hochiminh,1,Hanoi,Business Management,Sales Intern,Yes,5000000
+NEXTTECH GROUP,Technology,2001,1000 - 3000,Hanoi/ Hochiminh,1,Hanoi,Business Management,Project Intern,Yes,2000000
+NEXTTECH GROUP,Technology,2001,1000 - 3000,Hanoi/ Hochiminh,1,Hanoi,Human Resources,Human Resources Intern,Yes,2000000
+VEXERE.COM,Others,2013,<200,Hanoi/ Hochiminh,1,Hochiminh,Other,Customer Experience Management & Research,Yes,4000000
+VEXERE.COM,Others,2013,<200,Hanoi/ Hochiminh,1,Hochiminh,Multi- Media,UI-UX Designer,Yes,4500000
+MOBILE WORLD GROUP,E-commerce,2004,>5000,Hochiminh,90,Hochiminh,Computer Science & IT,IT Fresher,Yes,4000000
+MOBILE WORLD GROUP,E-commerce,2004,>5000,Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,Yes,2000000
+DIGIWORLD,Technology,1997,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Human Resources,C&B Intern,Yes,3000000
+VNP GROUP,E-commerce,2006,500 - 1000,Hanoi,1,Hanoi,Human Resources,Human Resources Intern,Yes,3000000
+CON CƯNG,E-commerce,2012,3000 - 5000,Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,Yes,3000000
+TOP ON SEEK (TOS) LTD.,Others,2016,<200,Hochiminh,2,Hochiminh,Computer Science & IT,Data Analyst Intern,Yes,3000000
+TOP ON SEEK (TOS) LTD.,Others,2016,<200,Hochiminh,5,Hochiminh,Computer Science & IT,Back-end Developer Intern,Yes,3000000
+TOP ON SEEK (TOS) LTD.,Others,2016,<200,Hochiminh,2,Hochiminh,Multi- Media,UX/UI Designer Intern,Yes,3000000
+TOP ON SEEK (TOS) LTD.,Others,2016,<200,Hochiminh,2,Hochiminh,Finance & Accounting,Business Analyst,Yes,3000000
+TOP ON SEEK (TOS) LTD.,Others,2016,<200,Hochiminh,2,Hochiminh,Marketing,SEO Content Intern,Yes,3000000
+TOP ON SEEK (TOS) LTD.,Others,2016,<200,Hochiminh,2,Hochiminh,Computer Science & IT,Tester intern,Yes,3000000
+DIGIWORLD,Technology,1997,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Marketing,Content Marketing,Yes,4500000
+DIGIWORLD,Technology,1997,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Human Resources,Talent Acquisition Intern,Yes,4500000
+DIGIWORLD,Technology,1997,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Finance & Accounting,Finance & Accounting Intern,Yes,4500000
+SONAT GAME STUDIO,Multi-Media,2017,<200,Hanoi,5,Hanoi,Marketing,Marketing Intern,Yes,3500000
+SONAT GAME STUDIO,Multi-Media,2017,<200,Hanoi,3,Hanoi,Multi- Media,Graphic Design Intern,Yes,3500000
+SONAT GAME STUDIO,Multi-Media,2017,<200,Hanoi,1,Hanoi,Multi- Media,Video Editor Intern,Yes,3500000
+SONAT GAME STUDIO,Multi-Media,2017,<200,Hanoi,3,Hanoi,Multi- Media,2D Artist Intern,Yes,3500000
+VNE E-COMMERCE,E-commerce,2019,200 - 500,Hanoi/ Hochiminh,8,Hanoi,Marketing,Ecommerce Intern,Yes,3500000
+VNE E-COMMERCE,E-commerce,2019,200 - 500,Hanoi/ Hochiminh,20,Hanoi,Marketing,Marketing Intern,Yes,3500000
+VNE E-COMMERCE,E-commerce,2019,200 - 500,Hanoi/ Hochiminh,5,Hanoi,Marketing,Digital Marketing Intern,Yes,3500000
+MOR SOFTWARE,Technology,2016,200 - 500,Hanoi/ Hochiminh,1,Hanoi,Human Resources,Human Resources Intern,Yes,3000000
+LOSHIP,E-commerce,2014,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Human Resources,Human Resources Intern,Yes,4500000
+LOSHIP,E-commerce,2014,200 - 500,Hanoi/ Hochiminh,1,Hochiminh,Multi- Media,Media Booking Intern,Yes,4500000
+RACONTEUR VIETNAM,Others,2019,<200,Hanoi,1,Hanoi,Marketing,Content Marketing Intern,Yes,4000000
+NAM LONG,Others,2017,<200,Hanoi,1,Hanoi,Marketing,Marketing Intern,Yes,6500000
