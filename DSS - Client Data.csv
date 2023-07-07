@@ -2,14 +2,14 @@
 FARADAY,Technology,2019,<200,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,12000000
 TIMO,Fintech/ Financial Service,2015,<200,Hochiminh,1,Hanoi,Marketing,Customer Services Intern,Yes,12000000
 UNISTARS AUDITING,Fintech/ Financial Service,2007,<200,Hanoi,1,Hanoi,Finance & Accounting,Auditing Intern,Yes,12000000
-Shinhan,Fintech/ Financial Service,2016,1000-3000,Hanoi,10,Hanoi,Finance & Accounting,,Yes,12000000
+Shinhan,Fintech/ Financial Service,2016,1000-3000,Hanoi,20,Hanoi,Finance & Accounting,,Yes,12500000
 VPS,Fintech/ Financial Service,2017,1000-3000,Hanoi,50,Hanoi,Finance & Accounting,Broker,Yes,11550000
 TECHVIFY,Technology,2018,200-500,Hanoi,1,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,11000000
 HIVETECH,Technology,2019,<200,Hanoi,4,Hanoi,Computer Science & IT,Tester Intern,Yes,10125000
 SYNAPSE DESIGN,Technology,2016,<200,Hochiminh,20,Hochiminh,Other,Physical Design,Yes,10000000
 TRIPATH VIET NAM,Technology,2011,<200,Hanoi,2,Hanoi,Computer Science & IT,Business Analyst Intern,Yes,10000000
 MAKE FAMOUS APP,Technology,2021,<200,Hochiminh,1,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,8333333.333
-IIT,Technology,2014,<200,Hanoi,10,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,8000000
+IIT,Technology,2014,<200,Hanoi,21,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,8000000
 MOR SOFTWARE,Technology,2016,200-500,Hanoi,15,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,7666666.667
 HG MEDIA,Others,2018,<200,Hanoi,2,Hanoi,Marketing,Content Marketing Intern,Yes,7500000
 TELIO,E-commerce,2018,<200,Hochiminh,29,Hanoi,Product,Product Intern,No,7103448.276
@@ -139,3 +139,53 @@ TOPICA EDTECH GROUP,EdTech,2008,1000-3000,Hanoi,3,Hanoi,Marketing,Content Market
 Delfi Tech,Technology,2023,<200,Hochiminh,2,Hochiminh,Marketing,SEO,No,1800000
 EDMICRO,EdTech,2018,<200,Hanoi,2,Hanoi,Marketing,Content Intern,Yes,1500000
 REVU,Multi-Media,2018,<200,Hochiminh,1,Hanoi,Business Management,Consultant Intern,Yes,1500000
+Vietbay,Technology,2008,<200,Hanoi,3,Hanoi,Marketing,Marketing Intern,Yes,10000000
+XNK Đức Tín,Others,2012,500-1000,Hanoi,8,Hanoi,Marketing,Marketing Intern,No,10500000
+UpBase,E-commerce,2020,<200,Hanoi,3,Hanoi,Business Management,Ecommerce Intern,Yes,8200000
+BridgeConsulting,Others,2020,<200,Hochiminh,6,Hochiminh,Business Management,Sales,No,11000000
+W EDU,Others,2021,<200,Hanoi,40,Hanoi,Business Management,Sales,No,10000000
+DNSE,Fintech/ Financial Service,2015,200-500,Hanoi,5,Hanoi,Computer Science & IT,Tech intern,Yes,12200000
+X Gamee,Technology,2021,<200,Hanoi,2,Hanoi,Computer Science & IT,Dev Unity,No,10800000
+EduPia,EdTech,2018,1000-3000,Hanoi,30,Hanoi,Product,Teaching Assistant,No,11000000
+PTF/SEABANK,Fintech/ Financial Service,2019,500-1000,Hanoi,5,Hanoi,Business Management,Sales,No,10000000
+Thẩm Mỹ TA,Others,2021,200-500,Hanoi,5,Hanoi,Marketing,Marketing Intern,No,8500000
+Mobifos,Technology,2021,<200,Hanoi,2,Hanoi,Marketing,Marketing Intern,Yes,8000000
+MBC Studio,Multi-Media,2017,200-500,Hochiminh,2,Hochiminh,Marketing,Marketing Intern,No,8000000
+Kanetora,Others,2020,200-500,Hanoi,1,Hanoi,Business Management,Sales,No,7200000
+NewStar,Technology,2010,200-500,Hanoi,15,Hanoi,Business Management,Sales,No,10000000
+Hebela,Technology,2014,200-500,Hanoi,4,Hanoi,Marketing,Marketing Intern,No,7000000
+AdFlex VN,Technology,2012,<200,Hanoi,4,Hanoi,Computer Science & IT,Tech intern,No,7300000
+Vận Tải BV,Others,2021,<200,Hanoi,5,Hanoi,Business Management,Sales,No,8350000
+Zozin,Technology,2020,<200,Hanoi,50,Hanoi,Business Management,Consultant Intern,Yes,8000000
+Hải Anh,Others,2008,500-1000,Hanoi,4,Hanoi,Product,Consultant Intern,No,9500000
+GoldKey,Multi-Media,2020,500-1000,Hochiminh,3,Hochiminh,Business Management,Sales,No,8000000
+Erable VN,Technology,2021,<200,Hanoi,3,Hanoi,Computer Science & IT,Data Analyst Intern,No,10000000
+DC Medial,Multi-Media,2021,<200,Hanoi,3,Hanoi,Business Management,Sales,No,10000000
+Kiến trúc Đất Việt,Others,2010,<200,Hanoi,15,Hanoi,Product,3D,No,10000000
+SoftDreams,Technology,2012,200-500,Hanoi,3,Hanoi,Computer Science & IT,Software Engineer Intern,Yes,8780000
+MSB,Fintech/ Financial Service,2009,>5000,Hochiminh,5,Hochiminh,Business Management,Sales,Yes,8150000
+MBB,Fintech/ Financial Service,2009,>5000,Hochiminh,6,Hochiminh,Business Management,Sales,Yes,7500000
+Văn Hóa Việt,Multi-Media,2020,<200,Hanoi,7,Hanoi,Computer Science & IT,AI & PHP,Yes,8000000
+MiniBreak,Proptech/ Real Estate,2020,<200,Hanoi,3,Hanoi,Business Management,Sales,No,9000000
+Manulife,Fintech/ Financial Service,1999,>5000,Hochiminh,40,Hochiminh,Business Management,Sales,No,11000000
+Nina,Multi-Media,2011,500-1000,Hochiminh,36,Hochiminh,Business Management,Sales,Yes,12800000
+Vmex,Others,2021,<200,Hochiminh,10,Hochiminh,Business Management,Consultant Intern,Yes,8888888
+May Chí Hải,Others,2011,200-500,Hochiminh,5,Hochiminh,Marketing,Marketing Intern,No,6560000
+SNA VN,Technology,2022,<200,Hochiminh,8,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,1200000
+FP HOUSE,Technology,2022,<200,Hochiminh,20,Hochiminh,Business Management,Sales,No,10000000
+American Study,EdTech,2016,200-500,Hochiminh,2,Hochiminh,Human Resources,Human Resources Intern,No,6000000
+TH Fashion,Others,2018,200-500,Hochiminh,12,Hochiminh,Product,Design,Yes,8000000
+Việt Bằng,Technology,2005,200-500,Hochiminh,5,Hochiminh,Business Management,Sales,No,5000000
+SITC,Technology,2010,<200,Hochiminh,2,Hochiminh,Finance & Accounting,Account Intern,No,7100000
+NovaOne,Technology,2015,1000-3000,Hochiminh,6,Hochiminh,Computer Science & IT,Software Engineer Intern,Yes,8500000
+Đồng Hồ Hải Triều,Others,1991,200-500,Hochiminh,4,Hochiminh,Human Resources,Human Resources Intern,No,5000000
+FPTS,Fintech/ Financial Service,2007,200-500,Hochiminh,3,Hochiminh,Human Resources,Human Resources Intern,Yes,8600000
+Heramo,Others,2021,<200,Hochiminh,5,Hochiminh,Computer Science & IT,BA,Yes,5000000
+GHTK,Others,2016,500-1000,Hanoi,3,Hochiminh,Human Resources,Human Resources Intern,No,6000000
+Taza,Others,2017,200-500,Hochiminh,3,Hochiminh,Product,Graphic Design Intern,Yes,5200000
+HanaGold,Fintech/ Financial Service,2020,<200,Hochiminh,10,Hochiminh,Business Management,Sales,No,5300000
+VietStock,Fintech/ Financial Service,2002,<200,Hochiminh,5,Hochiminh,Business Management,Sales,Yes,8100000
+FinPros,Fintech/ Financial Service,2020,200-500,Hanoi,10,Hochiminh,Computer Science & IT,Tech intern,No,5000000
+ADAMAS,Technology,2011,<200,Hochiminh,12,Hochiminh,Marketing,Marketing Intern,Yes,11340000
+MediaStep,Technology,2020,200-500,Hochiminh,4,Hochiminh,Business Management,Sales,No,7000000
+Vũ Long,Multi-Media,2019,<200,Hochiminh,11,Hochiminh,Business Management,Sales,No,5000000
